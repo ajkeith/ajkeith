@@ -11,10 +11,6 @@ I'm interested in strategy and operations research, especially in the Southeast 
 - 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/andrew-j-keith/)
 - ⚡ Fun fact: Julia is my favorite programming language!
 
-[![Recent Activity](https://github-readme-stats.vercel.app/api?username=ajkeith&hide_rank=true&theme=vue-dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajkeith&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ### 🖥️ Major Projects
 <!-- table -->
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
@@ -30,3 +26,7 @@ I'm interested in strategy and operations research, especially in the Southeast 
 | 2018 | [Simple G/G/c Queue](https://github.com/ajkeith/SimpleQueue) | ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r&logoColor=blue) |
 
 <br>
+
+[![Recent Activity](https://github-readme-stats.vercel.app/api?username=ajkeith&hide_rank=true&theme=vue-dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajkeith&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
